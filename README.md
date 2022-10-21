@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zvikasdongre
 - 👀 I’m interested in Javascript.
 - 🌱 I’m currently learning Svelte.
+- 😺 I’m the best kitty.
 
 <!---
 zvikasdongre/zvikasdongre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
